@@ -1,11 +1,7 @@
 # python_programs
 Repo containing Python programs made by me
 
-Please read the following text below beginning on line 7:
+These projects were created by me following tutorials/ideas from YouTube and/or Codecademy. 
+This is simply a way of attempting to improve my Python skills by completing projects. 
 
-========================================================================================
-PLEASE NOTE:
 
-THESE PROGRAMS ARE FOR EDUCATIONAL & TESTING USE ONLY; 
-I AM NOT RESPONSIBLE FOR ANY ACTIONS THAT THE END USER WHO DOWNLOADS OR MODIFIES MY FILES MAY PERFORM
-========================================================================================
